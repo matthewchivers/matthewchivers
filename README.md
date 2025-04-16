@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @matthewchivers
-- 👀 I’m interested in home automation and back-end development.
-- 🌱 I’m currently learning golang and kubernetes.
-- 💞️ I’m looking to collaborate on home automation projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matthewchivers/)
+### Matthew Chivers
 
-<!---
-matthewchivers/matthewchivers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend developer and DevOps engineer focused on automation, scale, and building reliable systems that simplify complex tasks.
+
+At IBM, I work on [Event Streams](https://www.ibm.com/products/event-streams) on Cloud (managed Apache Kafka), creating and maintaining infrastructure that's stable and resilient under pressure. I believe in clear, maintainable code, efficient automation, and practical tooling.
+
+Outside work: smart home projects, tooling experiments, and exploring the intersection of security and modern infrastructure. I share notes, ideas, and occasional thoughts at [chivers.dev](https://chivers.dev).
+
+If you're working on backend systems, secure automation, or appreciate thoughtful developer tools — I'm always open to connecting.
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/matthewchivers/)
+- 🌐 [chivers.dev](https://chivers.dev)
