@@ -2,7 +2,7 @@ Site Reliability Engineer at [NiCE](https://www.nice.com), building automation-h
 
 > *Former* backend developer and Cloud DevOps engineer at [IBM](https://www.ibm.com) keeping the "[Event Streams on Cloud](https://www.ibm.com/products/event-streams)" managed Apache Kafka service online and resilient.
 
-Hands-on with Golang, Python (and Bash 😳) for backend services, automation, and tooling. Daily work spans Kubernetes, Terraform, CI/CD, observability (Grafana/Prometheus), and distributed systems — always with a bias toward reducing toil through code.
+Hands-on with Golang, Python (and Bash 😳) for backend services, automation, and tooling. Daily work spans Kubernetes, CI/CD, observability (Grafana/Prometheus), and distributed systems — always with a bias toward reducing toil through code.
 
 Background in backend engineering and secure, compliance-focused cloud infrastructure. Experienced in incident response, postmortems, and service hardening to support high availability.
 
