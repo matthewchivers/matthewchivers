@@ -1,11 +1,9 @@
-Site Reliability Engineer at [NiCE](https://www.nice.com), building automation-heavy systems that keep large-scale platforms reliable and performant. I believe in approaching SRE as a software discipline: coding solutions, not just running operations.
+DevOps Engineer at [Digi2al](https://www.digi2al.com/), mostly in the defence space. Practically, this means Platform Engineering, but job titles are a lagging indicator and I've stopped fighting it. Either way, the goal is making infrastructure boring on purpose.
 
-> *Former* backend developer and Cloud DevOps engineer at [IBM](https://www.ibm.com) keeping the "[Event Streams on Cloud](https://www.ibm.com/products/event-streams)" managed Apache Kafka service online and resilient.
+> Six years at [IBM](https://www.ibm.com) before that, then [SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering) at [NiCE](https://www.nice.com): Kafka, open-source, voice infra, build pipelines, on-call rotas, observability, cloud services, and a great deal of [Go](https://go.dev/).
 
-Hands-on with Golang, Python (and Bash 😳) for backend services, automation, and tooling. Daily work spans Kubernetes, CI/CD, observability (Grafana/Prometheus), and distributed systems — always with a bias toward reducing toil through code.
+I'm not fussy about scale. A twenty-line script that permanently deletes a manual step is just as satisfying to me as a platform half a continent depends on - same instinct, different blast radius. What I'm chasing in both cases is the same thing: taking the complexity upon myself so nobody downstream has to carry it - a dashboard that answers the question you have at 3am, a tool or service I can throw away and rebuild from a git repo, an interface that gives you every option you need and none of the ones that end badly.
 
-Background in backend engineering and secure, compliance-focused cloud infrastructure. Experienced in incident response, postmortems, and service hardening to support high availability.
+At home there's a Proxmox box, some Raspberry Pis, and a VLAN setup that took an amusingly-long time to get right. Different customer base, equally unforgiving - my family notice within seconds when DNS goes down, and have heard quite enough about five-nines of availability and sub-millisecond P95 latency.
 
-I’m a fan of practical, maintainable code and I enjoy exploring where automation and modern engineering practices (GitOps, AI-assisted dev, security by design) can take us next.
-
-- 📫 [LinkedIn](https://www.linkedin.com/in/matthewchivers/)
+I make a repo public if was useful to me and might be useful to you. If something's broken, tell me.
